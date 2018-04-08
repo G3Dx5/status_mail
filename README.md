@@ -1,4 +1,4 @@
-###status_mail
+## status_mail
 
 A python script that checks a machine's logged in users, memory stats, drive space and reads out the last lines of the machine auth.log. 
 
@@ -6,10 +6,10 @@ Requires a gmail account for sending the email from the machine being administer
 
 The primary library for gathering stats is the plumbum library for python3.  The library allows use of native functions without using os.subprocess.
 
-###Example Usage:
+## Example Usage:
 
 ./status_mail.py
 
-###To Do: 
+## To Do: 
 
 Configuration file for usernames and passwords.
