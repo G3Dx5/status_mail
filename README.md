@@ -10,6 +10,3 @@ The primary library for gathering stats is the plumbum library for python3.  The
 
 ./status_mail.py
 
-## To Do: 
-
-Configuration file for usernames and passwords.
