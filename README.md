@@ -8,5 +8,5 @@ The primary library for gathering stats is the plumbum library for python3.  The
 
 ## Example Usage:
 
-./status_mail.py
+python3 status_mail.py
 
