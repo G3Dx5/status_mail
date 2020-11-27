@@ -2,7 +2,7 @@
 
 '''
 Script to gather system statistics then send to an email address
-Author: GaDayas
+Author: G3DX5
 Version: 0.1  12 October 2017
 '''
 
