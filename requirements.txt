@@ -1,0 +1,2 @@
+# status_mail/status_mail.py: 15,16
+plumbum == 1.6.9
