@@ -4,8 +4,6 @@ A python script that checks a machine's logged in users, memory stats, drive spa
 
 Requires a gmail account for sending the email from the machine being administered.  The recieving email can be any you like.  
 
-![](diagram/statusmail.png)
-
 The primary library for gathering stats is the plumbum library for python3.  The library allows use of native functions without using os.subprocess.
 
 ![](diagram/statusmail.png)
